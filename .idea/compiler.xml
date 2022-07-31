@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Remove Element" />
         <module name="Remove Duplicates from Sorted Array" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Remove Duplicates from Sorted Array" target="1.5" />
+      <module name="Remove Element" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
