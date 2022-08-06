@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Search Insert Position" />
         <module name="Remove Duplicates from Sorted Array" />
+        <module name="Plus One" />
         <module name="Remove Element" />
         <module name="Length of Last Word" />
         <module name="Implement strStr()" />
@@ -16,6 +17,7 @@
     <bytecodeTargetLevel>
       <module name="Implement strStr()" target="1.5" />
       <module name="Length of Last Word" target="1.5" />
+      <module name="Plus One" target="8" />
       <module name="Remove Duplicates from Sorted Array" target="1.5" />
       <module name="Remove Element" target="8" />
       <module name="Search Insert Position" target="1.5" />
