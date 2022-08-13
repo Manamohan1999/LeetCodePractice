@@ -8,13 +8,15 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Search Insert Position" />
         <module name="Remove Duplicates from Sorted Array" />
-        <module name="Plus One" />
         <module name="Remove Element" />
+        <module name="Add Binary" />
+        <module name="Plus One" />
         <module name="Length of Last Word" />
         <module name="Implement strStr()" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Add Binary" target="1.5" />
       <module name="Implement strStr()" target="1.5" />
       <module name="Length of Last Word" target="1.5" />
       <module name="Plus One" target="8" />
