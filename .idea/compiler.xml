@@ -13,6 +13,7 @@
         <module name="Plus One" />
         <module name="Length of Last Word" />
         <module name="Implement strStr()" />
+        <module name="Sqrt(x)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,6 +24,7 @@
       <module name="Remove Duplicates from Sorted Array" target="1.5" />
       <module name="Remove Element" target="8" />
       <module name="Search Insert Position" target="1.5" />
+      <module name="Sqrt(x)" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
