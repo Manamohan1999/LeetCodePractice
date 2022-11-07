@@ -10,6 +10,7 @@
         <module name="Remove Duplicates from Sorted Array" />
         <module name="Remove Element" />
         <module name="Add Binary" />
+        <module name="Climbing Stairs" />
         <module name="Plus One" />
         <module name="Length of Last Word" />
         <module name="Implement strStr()" />
@@ -18,6 +19,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Add Binary" target="1.5" />
+      <module name="Climbing Stairs" target="1.5" />
       <module name="Implement strStr()" target="1.5" />
       <module name="Length of Last Word" target="1.5" />
       <module name="Plus One" target="8" />

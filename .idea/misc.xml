@@ -11,6 +11,10 @@
         <option value="$PROJECT_DIR$/Plus One/pom.xml" />
         <option value="$PROJECT_DIR$/Add Binary/pom.xml" />
         <option value="$PROJECT_DIR$/Sqrt(x)/pom.xml" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/Climbing Stairs/pom.xml" />
+>>>>>>> f9a866dc76fde959a3419e3373977fbe490db4a0
       </list>
     </option>
   </component>

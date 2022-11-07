@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Add Binary/Add Binary.iml" filepath="$PROJECT_DIR$/Add Binary/Add Binary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Climbing Stairs/Climbing Stairs.iml" filepath="$PROJECT_DIR$/Climbing Stairs/Climbing Stairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Implement strStr()/Implement strStr().iml" filepath="$PROJECT_DIR$/Implement strStr()/Implement strStr().iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LeetCodePractice.iml" filepath="$PROJECT_DIR$/.idea/LeetCodePractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Length of Last Word/Length of Last Word.iml" filepath="$PROJECT_DIR$/Length of Last Word/Length of Last Word.iml" />
